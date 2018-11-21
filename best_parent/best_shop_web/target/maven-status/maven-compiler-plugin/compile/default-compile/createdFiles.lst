@@ -1,0 +1,6 @@
+com\best\shop\controller\GoodsController.class
+com\best\shop\controller\SellerController.class
+com\best\shop\controller\ItemCatController.class
+com\best\shop\controller\TypeTemplateController.class
+com\best\shop\controller\UploadController.class
+com\best\shop\service\impl\UserDetailServiceImpl.class

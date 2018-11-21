@@ -1,0 +1,6 @@
+com\best\sellergoods\service\GoodsService.class
+com\best\sellergoods\service\TypeTemplateService.class
+com\best\sellergoods\service\SellerService.class
+com\best\sellergoods\service\SpecificationService.class
+com\best\sellergoods\service\BrandService.class
+com\best\sellergoods\service\ItemCatService.class

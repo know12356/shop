@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="best_common" />
+        <module name="best_content_interface" />
+        <module name="best_content_services" />
+        <module name="best_dao" />
+        <module name="best_managers_web" />
+        <module name="best_pojo" />
+        <module name="best_portal_web" />
+        <module name="best_sellergoods_interface" />
+        <module name="best_sellergoods_service" />
+        <module name="best_shop_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="best_manager_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+com\best\manager\controller\SellerController.class
+com\best\manager\controller\GoodsController.class
+com\best\manager\controller\LoginController.class
+com\best\manager\controller\ContentCategoryController.class
+com\best\manager\utils\FastDFSClient.class
+com\best\manager\controller\SpecificationController.class
+com\best\manager\controller\ItemCatController.class
+com\best\manager\controller\BrandController.class
+com\best\manager\controller\TypeTemplateController.class
+com\best\manager\controller\ContentController.class
+com\best\manager\controller\UploadController.class
